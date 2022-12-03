@@ -1,5 +1,31 @@
-#a list of menu options. Each value separatly with '\n' below lines like:
-#option one
-#           'empty line'
-#option two
+#a list of menu options. This file contains this description and list of options in the format:
 
+#>name_of_function_in_Options_module - shouldn't have any special symbols but latin, numbers and underscore symbol
+#Option itself
+#"Description" - make sure you didn't forgot to close quotation mark
+
+>simple_td_t1_t2
+Simple calculation of timediff between T1 and T2
+"Simple description"
+
+>simple_td_now_t2
+Simple calculation of timediff between NOW and T2
+"Multi 
+Line
+Description"
+
+>smart_td_t1_t2
+Smart calculation of timediff between T1 and T2
+"Description"
+
+>smart_td_now_t2
+Smart calculation of timediff between NOW and T2
+"Description"
+
+>smart_calc_api
+Smart calculation things based on some API
+"Description"
+
+>bd
+SQLLite thing that we'll save how much you work today
+"Description"

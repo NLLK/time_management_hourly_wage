@@ -11,10 +11,7 @@ class Utils:
         #Returns nothing? 
         pass
     def f_read_line():
-        #reads a line with "f_read_line_row" but if 
-        # it have '#' symbol at start - it will ingore it
-        #Returns: line, if it fits listed conditions
-        #         '\n', if it doesn't
+        #special read line. #,>,"". check if there are closing "" before >
         pass
     def f_read_line_row():
         #reads a line without any logic
