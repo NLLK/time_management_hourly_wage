@@ -1,0 +1,5 @@
+#a list of menu options. Each value separatly with '\n' below lines like:
+#option one
+#           'empty line'
+#option two
+
