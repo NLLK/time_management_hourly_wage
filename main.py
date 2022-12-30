@@ -1,3 +1,3 @@
-import menu
+import src.menu as menu
 
-menu.Menu.showMenu()
+menu.Menu().showMenu()

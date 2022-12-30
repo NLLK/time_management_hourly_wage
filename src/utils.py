@@ -11,9 +11,5 @@ class Utils:
         #Returns nothing? 
         pass
     def f_read_line():
-        #special read line. #,>,"". check if there are closing "" before >
-        pass
-    def f_read_line_row():
-        #reads a line without any logic
-        #Returns: thing or thing
+        
         pass

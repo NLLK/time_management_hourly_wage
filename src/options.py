@@ -1,6 +1,8 @@
 #this module contains something with options...........
 class Options:
     
+    OPTIONS_FILE_PATH = "media\menu\options.txt"
+
     class Option:
         functionName = ""
         name = ""
