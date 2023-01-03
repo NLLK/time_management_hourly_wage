@@ -8,6 +8,9 @@ class Options:
         name = ""
         description = ""
 
+    def __init__(self):
+        pass
+
     def simple_td_t1_t2():
         print('abbbbbboooooobbbbbbbaaaaaaaaa')
         pass
