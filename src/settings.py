@@ -34,3 +34,6 @@ class Settings:
 #         }
 
         pass
+    def apply_cli_arguments(self, args):
+        #override argument
+        pass
