@@ -1,7 +1,7 @@
 #a list of menu options. This file contains this description and list of options in the format:
 
 #>name_of_function_in_Options_module - shouldn't have any special symbols but latin, numbers and underscore symbol
-#Option itself
+#Option itself. One line only. It is short text. Use description if you need more
 #"Description" - make sure you didn't forgot to close quotation mark
 
 >simple_td_t1_t2
